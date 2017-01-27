@@ -1,4 +1,4 @@
-sample	path	study	patient_id	donor_vital_status	donor_survival_time	Disease Free Status	Disease Free (Months)	TP53_status	Amino_Acid	TP53_mut_wt	TP53_miss_trunc	TP53_hotspot_trunc	TP53_R175_trunc	TP53_R248_trunc	TP53_R273_trunc	TP53_R282_trunc
+sample	path	study	patient_id	donor_vital_status	donor_survival_time	disease_free_status	disease_free_time	TP53_status	Amino_Acid	TP53_mut_wt	TP53_miss_trunc	TP53_hotspot_trunc	TP53_R175_trunc	TP53_R248_trunc	TP53_R273_trunc	TP53_R282_trunc
 ICGC-ABMB-20100303-07-TR	ICGC-ABMB-20100303-07-TR	ICGC	ICGC_0007	DECEASED	1.87			Frame_Shift_Del	P72P	MUT	trunc	trunc	trunc	trunc	trunc	trunc
 ICGC-ABMB-20100303-10-TR	ICGC-ABMB-20100303-10-TR	ICGC	ICGC_0025	DECEASED	11.60			WT		WT						
 ICGC-ABMB-20120505-38-TR	ICGC-ABMB-20120505-38-TR	ICGC														
